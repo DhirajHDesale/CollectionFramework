@@ -13,6 +13,7 @@ public class Stack1 {
         System.out.println(stack.pop());
         System.out.println(stack);
         System.out.println(stack.isEmpty());
+        System.out.println(stack.search(23));
         stack.clear();
         System.out.println(stack);
 
